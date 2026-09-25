@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Reproducibility Materials for Designing School Choice for Diversity in the San Francisco Unified School District"
+message: "If you use these reproducibility materials, please cite this repository."
+type: software
+
+authors:
+
+* family-names: Mentzer
+  given-names: Kaleigh
+* family-names: Ashlagi
+  given-names: Itai
+* family-names: Bansal
+  given-names: Sidhant
+* family-names: Chandra
+  given-names: Kumar
+* family-names: Lo
+  given-names: Irene
+* family-names: Rabasse
+  given-names: Edouard
+* family-names: Ravoson
+  given-names: Vincelot
+* family-names: Sun
+  given-names: Yuren
+* family-names: YahyazadehJeloudar
+  given-names: Mobin
+
+repository-code: "https://github.com/Stanford-MSandE-SFUSD/SFUSD-school-choice-reproducibility"
+url: "https://github.com/Stanford-MSandE-SFUSD/SFUSD-school-choice-reproducibility"
+
+version: "1.0.0"
+date-released: "2026-09-24"
+
+abstract: "Reproducibility materials for Designing School Choice for Diversity in the San Francisco Unified School District, including links to the public student-assignment and SFUSD-choice codebases and associated documentation."
+
+keywords:
+
+* school choice
+* market design
+* San Francisco Unified School District
+* reproducibility
